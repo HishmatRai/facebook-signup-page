@@ -1,0 +1,21 @@
+*{
+    padding: 0px !important;
+    margin: 0px !important;
+}
+
+#navbar{
+    background-color: #3c599a;
+    border: 1px solid red;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+#logo{
+    height: 50px;
+}
+#login-form{
+    border: 1px solid green;
+    display: flex;
+    flex-direction: row;
+    /* align-items: center; */
+}
